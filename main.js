@@ -1,5 +1,6 @@
 //nav appearing
 
+
 const navbar = document.querySelector('.navbar');
 //const btnUp = document.querySelector('.btnUp')
 
